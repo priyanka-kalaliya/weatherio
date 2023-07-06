@@ -50,12 +50,4 @@ Open with live server
 
 ## Authors
 
-- [@Priyanka](https://www.github.com/Priyanka)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/Priyanka/membership) or Subscribe My [YouTube Channel](https://youtube.com/@Priyanka).
+- [@Priyanka](https://github.com/priyanka-kalaliya)
