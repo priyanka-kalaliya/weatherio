@@ -31,15 +31,41 @@
     <!-- 
         custom css link
      -->
-     <link rel="stylesheet" href="./assets/css/style.css">
-     <!-- 
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <!-- 
         custom javaScript link
       -->
-      <script src="./assets/js/app.js" type="module"></script>
-      <script src="./assets/js/route.js" type="module"></script>
+    <script src="./assets/js/app.js" type="module"></script>
+    <script src="./assets/js/route.js" type="module"></script>
   </head>
-  
+
   <body>
-    <h1>hii baby</h1>
+    <!-- header -->
+
+    <header class="header">
+      <div class="container">
+        <a href="#" class="logo">
+          <img src="./assets/images/logo.png" alt="logo" />
+        </a>
+        <div class="search-view" data-search-view>
+          <div class="search-wrapper">
+            <input
+              type="search"
+              name="search"
+              placeholder="Search City..."
+              class="search-field"
+              autocomplete="off"
+              data-search-field
+            />
+            <span class="m-icon">search</span>
+          </div>
+          <button
+            class="icon-btn leading-icon has-state"
+            aria-label="close search"
+            data-search-toggler
+          ></button>
+        </div>
+      </div>
+    </header>
   </body>
 </html>
