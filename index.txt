@@ -90,3 +90,18 @@ Friday
 
 
 #---------- FOOTER ----------#
+
+Copyright 2023 Priyanka. All rights are reserved.
+
+Powered by
+
+<a href="https://openweatherapp.org/api" title="Free OpenWeather api" target="_blank" rel="noopener"></a>
+
+
+#---------- ERROR ----------#
+
+404
+
+Content Not Found
+
+Go Home
